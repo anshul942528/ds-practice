@@ -1,2 +1,2 @@
 # ds-practice
-ds problen solved
+ds problem solved
